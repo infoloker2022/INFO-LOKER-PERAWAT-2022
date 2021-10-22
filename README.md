@@ -15,14 +15,17 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
+<rss version=”2.0”
+xmlns:excerpt=”http://wordpress.org/export/1.2/excerpt/” 
+xmlns:content=”http://purl.org/rss/1.0/modules/content/” 
+xmlns:wfw=”http://wellformedweb.org/CommentAPI/” 
+xmlns:dc=”http://purl.org/dc/elements/1.1/” 
+xmlns:wp=”http://wordpress.org/export/1.2/”
+
+
+
 
 	
-<rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
 
 
 <channel>
